@@ -25,13 +25,13 @@ a{
 	background-color: white;
 	height: 50px;
 	margin-left: -10px;
-	width: 101.3%;
+	width: 105%;
 }
 
 .navigatie ul{
 	position: relative;
-	margin-left: 60%;
-	width: 37%;
+	margin-left: 50%;
+	width: 50%;
 
 }
 .navigatie li{
@@ -46,7 +46,7 @@ a{
 .navigatie ul h1{
 	position: relative;
 	top: 15px;
-	left: -850px;
+	left: -750px;
 	font-family: roboto;
 	font-size: 1.3em;
 	font-weight: bold;
@@ -194,7 +194,7 @@ width: 700px;
 }
 
 .iconen-contact{
-	margin-left: 610px;
+	margin-left: 310px;
 	margin-top: 70px;
 }
 .iconen-contact h3{
@@ -211,7 +211,23 @@ width: 700px;
 	margin-bottom: 30px;
 }
 
-
+.iconen-webshop{
+	margin-left: 600px;
+	margin-top: 800px;
+}
+.iconen-webshop h3{
+	color: white;
+	margin-left: 18px;
+}
+.iconen-webshop li{
+	list-style: none;
+}
+.iconen-webshop img{
+	max-width: 5%;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 30px;
+}
 
 form {
     background-color: rgba(0,0,0,0.10);
@@ -262,7 +278,56 @@ input[type="submit"]  {
 }
 
 
+/* webshop */
+.webshop{
+	position: relative;
+	left: 150px;
+}
+.webshop img{
+	width: 20%;
+	float: left;
+	margin-right: 100px;
+	margin-bottom: 100px;
+}
 
+.plusje img{
+	position: absolute;
+	width: 2%;
+	left: 255px;
+	top: 300px;
+}
 
+.plusje2 img{
+	position: absolute;
+	width: 2%;
+	left: 638px;
+	top: 300px;
+}
 
+.plusje3 img{
+	position: absolute;
+	width: 2%;
+	left: 1020px;
+	top: 300px;
+}
 
+.plusje4 img{
+	position: absolute;
+	width: 2%;
+	left: 255px;
+	top: 682px;
+}
+
+.plusje5 img{
+	position: absolute;
+	width: 2%;
+	left: 638px;
+	top: 682px;
+}
+
+.plusje6 img{
+	position: absolute;
+	width: 2%;
+	left: 1020px;
+	top: 682px;
+}
