@@ -96,6 +96,7 @@ a{
 color: white;
 font-family: roboto;
 width: 700px;
+margin-left: 10%;
 }
 
 #artists img{
@@ -103,16 +104,17 @@ width: 700px;
 }
 .head{
 	text-align: center;
+	margin-left: 50%;
 }
 .head h1{
 	position: relative;
-	left: 350px;
+	left: 40%;
 }
 .head hr{
 	width: 150px;
 	margin-top: -10px;
 	position: relative;
-	left: 350px;
+	left: 40%;
 }
 .lucid-vibez img{
 	position: relative;
@@ -161,7 +163,7 @@ width: 700px;
 
 
 .iconen-about{
-	margin-left: 595px;
+	margin-left: 50%;
 	margin-top: 350px;
 }
 .iconen-about h3{
@@ -179,7 +181,7 @@ width: 700px;
 }
 
 .iconen-artists{
-	margin-left: 595px;
+	margin-left: 50%;
 	margin-top: -100px;
 }
 .iconen-artists h3{
@@ -197,7 +199,7 @@ width: 700px;
 }
 
 .iconen-contact{
-	margin-left: 610px;
+	margin-left: 50%;
 	margin-top: 70px;
 }
 .iconen-contact h3{
@@ -234,7 +236,7 @@ width: 700px;
 
 #contact{
 	position: relative;
-	left: 130px;
+	left: 9%;
 }
 form {
     background-color: rgba(0,0,0,0.10);
@@ -338,4 +340,22 @@ input[type="submit"]  {
 	width: 2%;
 	left: 887px;
 	top: 595px;
+}
+
+.nummer1{
+	width: 100%;
+}
+.nummer1 p{
+	font-family: roboto;
+	font-size: 1em;
+	color: #39c8c6;
+	border: 1px solid #39c8c6;
+	width: 2%;
+	padding-top: 3.5px;
+	padding-bottom: 3.5px;
+	text-align: center;
+	position: relative;
+	left: 17.9%;
+	top: 310px;
+
 }
