@@ -4,14 +4,14 @@
 body{
 	background-color: #343434;
 	font-family: roboto;
-	width: 93%;
-	height: 105px;	
+	width: 83%;	
+	margin-top: -12px;
 }
 
 .background img{
 	margin-left: -10px;
 	margin-top: -373px;
-	width: 107.7%;
+	width: 120.6%;
 }
 
 a{
@@ -23,10 +23,10 @@ a{
 
 .navigatie{
 	position: relative;
-	top: -20px;
+	top: -10px;
 	background-color: white;
 	height: 50px;
-	width: 107.7%;
+	width: 120.65%;
 	margin-left: -10px;
 }
 
@@ -68,6 +68,7 @@ a{
 #about{
 	position: relative;
 	top: 100px;
+	left: 130px;
 }
 .about{
 	color: white;
@@ -231,6 +232,10 @@ width: 700px;
 	margin-bottom: 30px;
 }
 
+#contact{
+	position: relative;
+	left: 130px;
+}
 form {
     background-color: rgba(0,0,0,0.10);
     border: 1px solid #39c8c6;
@@ -296,41 +301,41 @@ input[type="submit"]  {
 .plusje img{
 	position: absolute;
 	width: 2%;
-	left: 255px;
-	top: 300px;
+	left: 215px;
+	top: 260px;
 }
 
 .plusje2 img{
 	position: absolute;
 	width: 2%;
-	left: 638px;
-	top: 300px;
+	left: 550px;
+	top: 260px;
 }
 
 .plusje3 img{
 	position: absolute;
 	width: 2%;
-	left: 1020px;
-	top: 300px;
+	left: 887px;
+	top: 260px;
 }
 
 .plusje4 img{
 	position: absolute;
 	width: 2%;
-	left: 255px;
-	top: 682px;
+	left: 215px;
+	top: 595px;
 }
 
 .plusje5 img{
 	position: absolute;
 	width: 2%;
-	left: 638px;
-	top: 682px;
+	left: 550px;
+	top: 595px;
 }
 
 .plusje6 img{
 	position: absolute;
 	width: 2%;
-	left: 1020px;
-	top: 682px;
+	left: 887px;
+	top: 595px;
 }
