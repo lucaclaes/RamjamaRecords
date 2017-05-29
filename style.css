@@ -5,6 +5,7 @@ body{
 	background-color: #343434;
 	font-family: roboto;
 	width: 93%;
+	height: 105px;	
 }
 
 .background img{
@@ -282,7 +283,8 @@ input[type="submit"]  {
 /* webshop */
 .webshop{
 	position: relative;
-	left: 150px;
+	left: 230px;
+	width: 100%;
 }
 .webshop img{
 	width: 20%;
